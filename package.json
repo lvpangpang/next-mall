@@ -1,0 +1,29 @@
+{
+  "name": "next-mall",
+  "version": "1.0.0",
+  "description": "基于Nextjs开发的电商平台",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev -p 3008",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lvpangpang/next-mall.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lvpangpang/next-mall/issues"
+  },
+  "homepage": "https://github.com/lvpangpang/next-mall#readme",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "next": "^12.2.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
